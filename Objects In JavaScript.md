@@ -1,4 +1,7 @@
 # JavaScript Objects
+## Use of Objects
+Objects are used to store keyed collections of various data and more complex entities.
+
 ## Are Objects Useful ?
 Suppose we want to create a tic tac toe game. Let us create the variables of the game :
 ```
